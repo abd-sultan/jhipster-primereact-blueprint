@@ -7,7 +7,8 @@
         "jhipster-blueprint",
         "primereact",
         "jhipster-5",
-        "jhipster-6"
+        "jhipster-6",
+        "jhipster-7"
     ],
     "homepage": "https://github.com/jeportc82/jhipster-primereact-blueprint",
     "author": {
@@ -27,12 +28,12 @@
         "chalk": "2.4.1",
         "ejs": "2.6.1",
         "eslint-config-airbnb": "17.1.1",
-        "generator-jhipster": "6.7.1",
+        "generator-jhipster": "7.9.3",
         "needle": "2.3.2",
         "glob": "7.1.2",
         "gulp-filter": "5.1.0",
         "insight": "0.10.1",
-        "jhipster-core": "6.0.5",
+        "jhipster-core": "7.9.3",
         "js-yaml": "3.13.1",
         "lodash": "4.17.13",
         "meow": "5.0.0",
